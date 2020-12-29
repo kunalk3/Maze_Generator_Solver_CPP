@@ -7,4 +7,4 @@ A C++ implementation of a (N x N) maze generation and solving. We have a choice 
 ```
 g++ maze_main.cpp Maze.cpp Graph.cpp
 ```
-Execute a.out (Linux) or a.exe (Windows)
+Execute the file a.out (Linux machine) or a.exe (Windows machine)
